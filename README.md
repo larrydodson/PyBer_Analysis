@@ -30,7 +30,7 @@ PyBer executive V.Isualize has assigned staff to analyze the company's ride shar
 
 As was mentioned above, the raw data available from the provided csv files includes the cities, city types, dates of rides, ride-id's, driver counts, and fare information per ride. This was processed using Python Pandas and the following visualization graphics produced using Matplotlib. In the following graphics representations of the data for January through end of April of 2019, the below statements of understanding can be made.
 
-In Figure-1, each of these area are by **City Type**, showing that the majoring of Rides and Fares, with also with the highest number of Drivers is in the Urban City Type. The second highest of Totals for Rides, Drivers and Fares are in the Suburan City Type. As a noted differnce, it is the Rual City Type that is highest for Average Fare both for per ride and per Driver, with Suburban as second.     
+In Figure-1, each of these area are by **City Type**, showing that the majoring of Rides and Fares, with also with the highest number of Drivers is in the Urban City Type. The second highest of Totals for Rides, Drivers and Fares are in the Suburban City Type. As a noted difference, it is the Rural City Type that is highest for Average Fare both for per ride and per Driver, with Suburban as second.     
   - Total Rides 
   - Total Drivers  
   - Total Fares  
@@ -42,7 +42,7 @@ In Figure-1, each of these area are by **City Type**, showing that the majoring 
 
 
 .
-In Figure-2, the percentages by City Type is also shown for each of % Total Fares, % Total Rides, and % Total Drivers, and is a clear illustration showing the majoriy of activity being in the Urban City Type, with Rual a much lower area of Activity. 
+In Figure-2, the percentages by City Type is also shown for each of % Total Fares, % Total Rides, and % Total Drivers, and is a clear illustration showing the majority of activity being in the Urban City Type, with Rural a much lower area of Activity. 
 
 
 **Figure-2 PyBer Ride-Sharing Data 2019 Pie Charts, Percent of Total Fares by City Type**   .     
@@ -52,7 +52,7 @@ In Figure-2, the percentages by City Type is also shown for each of % Total Fare
 
 .
 
-In Figure-3's Scatter Plot, both the activity of Average Fares by the Total of Rides, by the City Type is further illustrated. The plot shows that the majority of actiity of Rides and Fares generated is from the Urban type, overshadowing Suburban, and again far overshadowing Rural.   
+In Figure-3's Scatter Plot, both the activity of Average Fares by the Total of Rides, by the City Type is further illustrated. The plot shows that the majority of activity of Rides and Fares generated is from the Urban type, overshadowing Suburban, and again far overshadowing Rural.   
 
 **Figure-3 PyBer Ride-Sharing Data 2019 Scatter Plot, Average Fare Price by City Types**    .  
   ![PyBer__Data_Scatter.png](https://github.com/larrydodson/PyBer_Analysis/blob/master/analysis/PyBer__Data_Scatter.png)
@@ -64,7 +64,7 @@ In Figure-3's Scatter Plot, both the activity of Average Fares by the Total of R
 .
 
 
-In Figure-4, the Line Chart illustrates that the differnces by City Type for Total Fares income, is a continuing pattern over time. 
+In Figure-4, the Line Chart illustrates that the differnces by City Type for Total Fares income, is a continuing pattern over the months of January through end of April. 
 
 **Figure-4 Line Chart of Total Fares for Each City Type by time, Jan-Apr 2019, (PyBer_fare_summary.png)**   .   
   ![PyBer_fare_summary.png](https://github.com/larrydodson/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.png)
@@ -77,14 +77,14 @@ In Figure-4, the Line Chart illustrates that the differnces by City Type for Tot
 
 # Summary
 
-From the above analysis, and the comparision of the business by the city type, the following observations presented:
+From the above analysis, and the comparision of the business by the city type, the following observations are presented:
  * In orders of magnitude, referencing Figure-2, the Urban type has the highest total of Rides at 62.7% and total of Fares at 68.4%, highlighting that most of the company's activity is in the Urban areas. In the same context, Suburban type is the second with 30.5% and 26.3% respectively. Rural type follows at much lower activity levels of 6.8% and 5.3% respectively. 
- * When looking at the Averages for Fares per Ride adn per Driver, however, it is the Rural city type that is much higher thant the Urban type, with the Suburban type in as second ranking. 
- * Although the Rural city type is generating less overall Total Fares, the Fares are higher per captia of Drivers, and also per Ride. 
+ * When looking at the Averages for Fares per Ride and per Driver, however, it is the Rural city type that is much higher than the Urban type, with the Suburban type in as second ranking. 
+ * Although the Rural city type is generating less overall Total Fares, the Fares are higher per Drivers, and per Ride. 
  * The overall business is an interesting mix between the city types, and all three types should continue as part of the company's business strategy. 
 
 Business recommendations to the CEO for addressing any disparities among the city types.
-  1. The data shows a marked difference between the Urban and Rural city types, and additional analysis work is recommended to continue characterizing the overall business road-map. Targeted information should include analyzing the profitabilty of each City Type and to understand the actual Costs of rides, and the amount of percent and dollars share that is received by the Driver. 
+  1. The data shows a marked difference between the Urban and Rural city types, and additional analysis work is recommended to continue characterizing the overall business roadmap. Targeted information should include analyzing the profitability of each City Type and to understand the actual Costs of rides, and the amount of percent and dollars share that is received by the Driver. 
   2. A possible implied characterization, form the higher Average Fares for the Rural type, is that Rides in Rural areas are longer, taking more time and more miles driven, when compared with the same data for both Urban and Suburban rides. However, further analysis is needed and available data, to confirm if this is true or not true. The information will be a valuable addition to the current information. 
   3. Drivers within the Rural type, also due to predicted longer drive times and distances, may have higher Costs, due to fuel used and wear-and-tear normal maintenance. The recommendation is to continue further analysis to break down the cost per ride, arrive at the profitability per ride, and the amount of money the Drivers are receiving. This will serve to provide additional information on the viability and satisfaction of the Drivers, and to provide information to help drive company strategy whether the Rural type justifies company resources and costs. 
   
