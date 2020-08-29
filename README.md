@@ -20,7 +20,7 @@ PyBer executive V.Isualize has assigned staff to analyze the company's ride shar
 ---
 ## Resources
   - Data sources: city_data.csv, ride_data.csv 
-  - Software: Python 3.8.3, Jupyter Notebook, Windows10
+  - Software: Python 3.8.3, Pandas, Matplotlib, Jupyter Notebook, Windows10
 
 
 ---
@@ -28,9 +28,7 @@ PyBer executive V.Isualize has assigned staff to analyze the company's ride shar
 
 # Results of Analysis
 
-Please see the Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-
-In the follow graphics represenations of the data, Ride-sharing data include 
+As was mentioned above, the raw data available from the provided csv files includes the cities, city types, dates of rides, ride-id's, driver counts, and fare information per ride. This was processed using Python Pandas and the following visualization graphics produced using Matplotlib. In the following graphics representations of the data, we see the below information, and can make these understandings.  
   - the total rides
   - total drivers 
   - total fares 
@@ -47,15 +45,18 @@ In the follow graphics represenations of the data, Ride-sharing data include
 
 
 
+**Figure-2 PyBer Ride-Sharing Data 2019 Pie Charts, Percent of Total Fares by City Type**   .     
+  ![PyBer__DataByFare_Pies.png](https://github.com/larrydodson/PyBer_Analysis/blob/master/analysis/PyBer__DataByFare_Pies.png)
+
+
+
+.
 
 
 **Figure-3 PyBer Ride-Sharing Data 2019 Scatter Plot, Average Fare Price by City Types**    .  
   ![PyBer__Data_Scatter.png](https://github.com/larrydodson/PyBer_Analysis/blob/master/analysis/PyBer__Data_Scatter.png)
 
 
-
-**Figure-2 PyBer Ride-Sharing Data 2019 Pie Charts, Percent of Total Fares by City Type**   .     
-  ![PyBer__DataByFare_Pies.png](https://github.com/larrydodson/PyBer_Analysis/blob/master/analysis/PyBer__DataByFare_Pies.png)
 
 
 
