@@ -30,9 +30,18 @@ Ride-sharing data include
   - total fare by city type.
 
 
+**Figure-1 PyBer DataFrame ride sharing data Summary**  .  ![pyber_summary_df_Table.png](https://github.com/larrydodson/PyBer_Analysis/blob/master/Resources/pyber_summary_df_Table.png)
+
+
+.
+
+
+**Figure-2 PyBer_fare_summary.png: Line Chart of Total Fares for Each City Type by time**   .   
+![PyBer_fare_summary.png](https://github.com/larrydodson/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.png)
 
 
 
+.
 
 --- 
 
