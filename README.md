@@ -31,14 +31,28 @@ Ride-sharing data include
   - total fare by city type.
 
 
-**Figure-1 PyBer DataFrame ride sharing data Summary, (pyber_summary_df)**  .  ![pyber_summary_df_Table.png](https://github.com/larrydodson/PyBer_Analysis/blob/master/Resources/pyber_summary_df_Table.png)
+**Figure-1 PyBer DataFrame ride sharing data Summary, (pyber_summary_df)**  .  
+  ![pyber_summary_df_Table.png](https://github.com/larrydodson/PyBer_Analysis/blob/master/Resources/pyber_summary_df_Table.png)
 
 
 .
 
 
 **Figure-2 Line Chart of Total Fares for Each City Type by time, (PyBer_fare_summary.png)**   .   
-![PyBer_fare_summary.png](https://github.com/larrydodson/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.png)
+  ![PyBer_fare_summary.png](https://github.com/larrydodson/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.png)
+
+
+
+.
+
+
+**Figure-3 PyBer Ride-Sharing Data 2019 Scatter Plot, Average Fare Price by City Types**    .  
+  ![PyBer__Data_Scatter.png](https://github.com/larrydodson/PyBer_Analysis/blob/master/analysis/PyBer__Data_Scatter.png)
+
+
+
+**Figure-4 PyBer Ride-Sharing Data 2019 Pie Charts, Percent of Total Fares by City Type**   .     
+  ![PyBer__DataByFare_Pies.png](https://github.com/larrydodson/PyBer_Analysis/blob/master/analysis/PyBer__DataByFare_Pies.png)
 
 
 
@@ -54,7 +68,10 @@ Based on the results, provide three business recommendations to the CEO for addr
   3. efg
   
 
-
+driver support
+city type affordability  are their needs for rides being met? 
+no of drivers per city type
+no of riders per city type 
 
 .
 
