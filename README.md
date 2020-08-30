@@ -30,7 +30,7 @@ PyBer executive V.Isualize has assigned staff to analyze the company's ride shar
 
 As was mentioned above, the raw data available from the provided csv files includes the cities, city types, dates of rides, ride-id's, driver counts, and fare information per ride. This was processed using Python Pandas and the following visualization graphics produced using Matplotlib. In the following graphics representations of the data for January through end of April of 2019, the below statements of understanding can be made.
 
-In Figure-1, each of these area are by **City Type**, showing that the majoring of Rides and Fares, with also with the highest number of Drivers is in the Urban City Type. The second highest of Totals for Rides, Drivers and Fares are in the Suburban type. As a noted difference, it is the Rural type that is highest for Average Fare both for per Ride and per Driver, with Suburban as second.     
+In Figure-1, each of these area are by **City Type**, showing that the majority of Rides and Fares, with also with the highest number of Drivers, is in the Urban City Type. The second highest of Totals for Rides, Drivers and Fares are in the Suburban type. As a noted difference, it is the Rural type that is highest for Average Fare both for per Ride and per Driver, with Suburban as second.     
   - Total Rides 
   - Total Drivers  
   - Total Fares  
@@ -81,7 +81,7 @@ In Figure-4, the Line Chart illustrates and further highlights that the differnc
 
 # Summary
 
-## Obervations: 
+## Observations: 
  From the above analysis, and the comparision of the business with a focus on the three City Types, the following observations are presented:
 
  * Overall, in orders of magnitude, and referencing Figure-2, the Urban type generates the highest Total of Rides at 62.7% and also the highest Total of Fares at 68.4%. This is a clear highligt that the majority of the company's activity is in the Urban areas. In the same context, Suburban type is the second with 30.5% and 26.3% respectively. Rural type follows at much lower activity levels of 6.8% and 5.3% respectively. 
@@ -94,6 +94,7 @@ In Figure-4, the Line Chart illustrates and further highlights that the differnc
   1. Profitability Review.: The output from the data analysis shows a marked difference between the Urban and Rural city types, and additional analysis work is recommended to continue characterizing the overall business roadmap. Targeted information should include analyzing the profitability of each City Type and to understand the actual Costs of rides, and the amount of percent and dollars share that is received by the Driver. 
   2. Ride Characteristics for Lengths and Durations.:  A possible implied characterization, considering the higher Average Fares for the Rural type, is that Rides in Rural areas are longer, taking more time and more miles driven, when compared with the same data for both Urban and Suburban rides. However, further analysis is needed and available data, to confirm if this is true or not true. The information will be a valuable addition to the current information that can drive gaining more knowledge on these areas: 1) driver availabilty, 2) driver satisfactin, 3) costs of indivual rides adnd 4) profitabilty of a ride. 
   3. Costs associated with Fuel purchases and Vehicle Maintenance.:  Drivers within the Rural type, also due to predicted longer drive times and distances, may have higher Costs, due to fuel used and wear-and-tear normal maintenance on their vehicles. The recommendation is to continue further analysis to break down the cost per ride, arrive at the profitability per ride, and the amount of money the Drivers are receiving. This will serve to provide additional information on the viability and satisfaction of the Drivers, and to provide information to help drive company strategy whether the Rural type justifies company resources and costs. 
+  4. Drivers.: To know more about actual driver conditions and their state of satisfaction, it is recomended to collect, analyze and compare with the above analysis on these factors: 1) Driver fatigue, 2) Driver profitabilty on their income from the Fare charged versus their total costs. A question needing to be addressed is that although the Average Total Fare per Driver in the Rural type is much higher than the Suburban and Urban types, it is not yet known here what is the profitabilty to the Driver and to the company for each of the City Types. Knowing this additional information will help to create a more complete analysis of the overall business.  
   
 .
 
