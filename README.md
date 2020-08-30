@@ -70,6 +70,9 @@ In Figure-4, the Line Chart illustrates that the differnces by City Type for Tot
   ![PyBer_fare_summary.png](https://github.com/larrydodson/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary.png)
 
 
+   **Figure-4a**: "in-program output, showing the "Date" axis lable that is absent from the auto-saved png file above in Figure-4"
+![PyBer_fare_summary1.png](https://github.com/larrydodson/PyBer_Analysis/blob/master/analysis/PyBer_fare_summary1.png)
+
 
 .
 
